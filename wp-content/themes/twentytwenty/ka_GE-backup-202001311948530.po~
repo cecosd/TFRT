@@ -1,0 +1,618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Twenty\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-31 18:39+0000\n"
+"PO-Revision-Date: 2020-01-31 18:43+0000\n"
+"Last-Translator: admin <info@example.com>\n"
+"Language-Team: Georgian\n"
+"Language: ka_GE\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: 404.php:17
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"The page you were looking for could not be found. It might have been removed,"
+" renamed, or did not exist in the first place."
+msgstr ""
+
+#: 404.php:24
+msgid "404 not found"
+msgstr ""
+
+#: comments.php:34
+msgid "Leave a comment"
+msgstr ""
+
+#. %s: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:74
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments"
+msgstr ""
+
+#: comments.php:127
+msgid "Comments are closed."
+msgstr ""
+
+#. Copyright date format, see https://secure.php.net/date
+#: footer.php:25
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#. %s: HTML character for up arrow
+#: footer.php:38
+#, php-format
+msgid "To the top %s"
+msgstr ""
+
+#. %s: HTML character for up arrow
+#: footer.php:44
+#, php-format
+msgid "Up %s"
+msgstr ""
+
+#: front-page.php:21
+msgid "Category"
+msgstr "კატეგორია"
+
+#: front-page.php:28
+msgid "Min Year"
+msgstr "მინ წელი"
+
+#: front-page.php:29
+msgid "Max Year"
+msgstr "მაქს წელი"
+
+#: front-page.php:31
+msgid "Date: Ascending"
+msgstr "თარიღი: ზრდადი"
+
+#: front-page.php:34
+msgid "Date: Descending"
+msgstr "თარიღი: კლებადი"
+
+#: front-page.php:36 front-page.php:132
+msgid "Apply Filter"
+msgstr "გაფილტვრა"
+
+#: front-page.php:129
+msgid "Processing..."
+msgstr "გაფილტვრა..."
+
+#: functions.php:255
+msgid "Desktop Horizontal Menu"
+msgstr ""
+
+#: functions.php:256
+msgid "Desktop Expanded Menu"
+msgstr ""
+
+#: functions.php:257
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:258
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:259
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:338
+msgid "Skip to the content"
+msgstr ""
+
+#: functions.php:363
+msgid "Footer #1"
+msgstr ""
+
+#: functions.php:365
+msgid ""
+"Widgets in this area will be displayed in the first column in the footer."
+msgstr ""
+
+#: functions.php:375
+msgid "Footer #2"
+msgstr ""
+
+#: functions.php:377
+msgid ""
+"Widgets in this area will be displayed in the second column in the footer."
+msgstr ""
+
+#: functions.php:486
+msgid "Accent Color"
+msgstr ""
+
+#: functions.php:491 inc/starter-content.php:176 inc/starter-content.php:186
+msgid "Primary"
+msgstr ""
+
+#: functions.php:496
+msgid "Secondary"
+msgstr ""
+
+#: functions.php:501
+msgid "Subtle Background"
+msgstr ""
+
+#: functions.php:514
+msgid "Background Color"
+msgstr ""
+
+#: functions.php:529
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr ""
+
+#: functions.php:530
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr ""
+
+#: functions.php:535
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr ""
+
+#: functions.php:536
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr ""
+
+#: functions.php:541
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr ""
+
+#: functions.php:542
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr ""
+
+#: functions.php:547
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr ""
+
+#: functions.php:548
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr ""
+
+#: header.php:64
+msgid "Menu"
+msgstr ""
+
+#: header.php:76
+msgid "Horizontal"
+msgstr ""
+
+#: index.php:32
+msgid "Search:"
+msgstr ""
+
+#. %s: Number of search results
+#: index.php:39
+#, php-format
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] ""
+msgstr[1] ""
+
+#: index.php:48
+msgid ""
+"We could not find any results for your search. You can give it another try "
+"through the search form below."
+msgstr ""
+
+#: index.php:89
+msgid "search again"
+msgstr ""
+
+#: searchform.php:24 template-parts/modal-search.php:20
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#. Name of the template
+#: classes/class-twentytwenty-customize.php:281
+msgid "Cover Template"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:81
+msgid "Retina logo"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:82
+msgid ""
+"Scales the logo to half its uploaded size, making it sharp on high-res "
+"screens."
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:101
+msgid "Header &amp; Footer Background Color"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:123
+msgid "Primary Color"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:125
+msgid "Default"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:126
+msgid "Custom"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:183
+msgid "Apply a custom color for links, buttons, featured images."
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:202
+msgid "Theme Options"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:225
+msgid "Show search in header"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:246
+msgid "Show author bio"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:267
+msgid "On archive pages, posts show:"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:269
+msgid "Full text"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:270
+msgid "Summary"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:283
+msgid ""
+"Settings for the \"Cover Template\" page template. Add a featured image to "
+"use as background."
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:305
+msgid "Fixed Background Image"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:306
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:352
+msgid "Overlay Background Color"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:353
+msgid "The color used for the overlay. Defaults to the accent color."
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:374
+msgid "Overlay Text Color"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:375
+msgid "The color used for the text in the overlay."
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:395
+msgid "Overlay Opacity"
+msgstr ""
+
+#: classes/class-twentytwenty-customize.php:396
+msgid ""
+"Make sure that the contrast is high enough so that the text is readable."
+msgstr ""
+
+#: classes/class-twentytwenty-walker-comment.php:56
+msgid "says:"
+msgstr ""
+
+#. 1 = comment date, 2 = comment time
+#: classes/class-twentytwenty-walker-comment.php:69
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: classes/class-twentytwenty-walker-comment.php:77
+msgid "Edit"
+msgstr ""
+
+#: classes/class-twentytwenty-walker-comment.php:92
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: classes/class-twentytwenty-walker-comment.php:127
+msgid "By Post Author"
+msgstr ""
+
+#. %d: ID of a post
+#: classes/class-twentytwenty-walker-page.php:82
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: classes/class-twentytwenty-walker-page.php:134 inc/template-tags.php:555
+msgid "Show sub menu"
+msgstr ""
+
+#: inc/starter-content.php:38
+msgctxt "Theme starter content"
+msgid "The New UMoMA Opens its Doors"
+msgstr ""
+
+#: inc/starter-content.php:47
+msgid "The New UMoMA Opens its Doors"
+msgstr ""
+
+#: inc/starter-content.php:55
+msgid ""
+"The premier destination for modern art in Northern Sweden. Open from 10 AM "
+"to 6 PM every day during the summer months."
+msgstr ""
+
+#: inc/starter-content.php:66
+msgid "Works and Days"
+msgstr ""
+
+#: inc/starter-content.php:69 inc/starter-content.php:101
+msgid "August 1 -- December 1"
+msgstr ""
+
+#: inc/starter-content.php:72 inc/starter-content.php:87
+#: inc/starter-content.php:104 inc/starter-content.php:119
+msgid "Read More"
+msgstr ""
+
+#: inc/starter-content.php:81
+msgid "Theatre of Operations"
+msgstr ""
+
+#: inc/starter-content.php:84 inc/starter-content.php:116
+msgid "October 1 -- December 1"
+msgstr ""
+
+#: inc/starter-content.php:98
+msgid "The Life I Deserve"
+msgstr ""
+
+#: inc/starter-content.php:113
+msgid "From Signac to Matisse"
+msgstr ""
+
+#: inc/starter-content.php:129
+msgid ""
+"”Cyborgs, as the philosopher Donna Haraway established, are not reverent. "
+"They do not remember the cosmos.”"
+msgstr ""
+
+#: inc/starter-content.php:133
+msgid ""
+"With seven floors of striking architecture, UMoMA shows exhibitions of "
+"international contemporary art, sometimes along with art historical "
+"retrospectives. Existential, political and philosophical issues are "
+"intrinsic to our programme. As visitor you are invited to guided tours "
+"artist talks, lectures, film screenings and other events with free admission"
+msgstr ""
+
+#: inc/starter-content.php:136
+msgid ""
+"The exhibitions are produced by UMoMA in collaboration with artists and "
+"museums around the world and they often attract international attention. "
+"UMoMA has received a Special Commendation from the European Museum of the "
+"Year, and was among the top candidates for the Swedish Museum of the Year "
+"Award as well as for the Council of Europe Museum Prize."
+msgstr ""
+
+#: inc/starter-content.php:144
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr ""
+
+#: inc/starter-content.php:147
+msgid ""
+"Members get access to exclusive exhibits and sales. Our memberships cost $99."
+"99 and are billed annually."
+msgstr ""
+
+#: inc/starter-content.php:150
+msgid "Join the Club"
+msgstr ""
+
+#: inc/starter-content.php:196
+msgid "Social Links Menu"
+msgstr ""
+
+#. %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:206
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:347
+msgid "Post author"
+msgstr ""
+
+#. %s: Author name
+#: inc/template-tags.php:354 template-parts/entry-author-bio.php:20
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:371
+msgid "Post date"
+msgstr ""
+
+#: inc/template-tags.php:389 template-parts/content-cover.php:70
+#: template-parts/entry-header.php:36
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:393
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr ""
+
+#: inc/template-tags.php:407
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:445
+msgid "Sticky post"
+msgstr ""
+
+#: template-parts/content-cover-movie.php:54
+#: template-parts/content-cover-movie.php:60
+msgid "Director"
+msgstr "რეჟისორი"
+
+#: template-parts/content-cover-movie.php:59
+msgid "Year of release"
+msgstr "გამოშვების წელი"
+
+#: template-parts/content-cover.php:88
+msgid "Scroll Down"
+msgstr ""
+
+#: template-parts/content-cover.php:138 template-parts/content-movie.php:46
+#: template-parts/content.php:48
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-cover.php:138 template-parts/content-movie.php:46
+#: template-parts/content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-movie.php:35 template-parts/content.php:36
+msgid "Continue reading"
+msgstr ""
+
+#: template-parts/entry-author-bio.php:29
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/footer-menus-widgets.php:37
+msgid "Footer"
+msgstr ""
+
+#: template-parts/footer-menus-widgets.php:57
+msgid "Social links"
+msgstr ""
+
+#: template-parts/modal-menu.php:21
+msgid "Close Menu"
+msgstr ""
+
+#: template-parts/modal-menu.php:48
+msgid "Expanded"
+msgstr ""
+
+#: template-parts/modal-menu.php:73
+msgid "Mobile"
+msgstr ""
+
+#: template-parts/modal-menu.php:117
+msgid "Expanded Social links"
+msgstr ""
+
+#: template-parts/modal-search.php:26
+msgid "Close search"
+msgstr ""
+
+#: template-parts/navigation.php:25
+msgid "Post"
+msgstr ""
+
+#. This text contains HTML to allow the text to be shorter on small screens.
+#. The text inside the span with the class nav-short will be hidden on small screens.
+#: template-parts/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: template-parts/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Template"
+msgstr ""
+
+#. Name of the theme
+msgid "Twenty Twenty"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Our default theme for 2020 is designed to take full advantage of the "
+"flexibility of the block editor. Organizations and businesses have the "
+"ability to create dynamic landing pages with endless layouts using the group "
+"and column blocks. The centered content column and fine-tuned typography "
+"also makes it perfect for traditional blogs. Complete editor styles give you "
+"a good idea of what your content will look like, even before you publish. "
+"You can give your site a personal touch by changing the background colors "
+"and the accent color in the Customizer. The colors of all elements on your "
+"site are automatically calculated based on the colors you pick, ensuring a "
+"high, accessible color contrast for your visitors."
+msgstr ""
+
+#. URI of the theme
+msgid "https://wordpress.org/themes/twentytwenty/"
+msgstr ""
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wordpress.org/"
+msgstr ""

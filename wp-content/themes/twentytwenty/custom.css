@@ -1,0 +1,216 @@
+
+body{
+    background-color:#FFF !important;
+}
+body:lang(ka-GE), input, textarea, button, .button, .faux-button, .faux-button.more-link, .wp-block-button__link, .wp-block-file__button,select.w-7{
+    font-family: "BPG Nino Mtavruli", sans-serif !important;
+}
+.single-movie #site-header{
+    margin-bottom: 5px;
+}
+#site-header{
+    -webkit-box-shadow: 0 5px 6px -6px #777;
+    -moz-box-shadow: 0 5px 6px -6px #777;
+    box-shadow: 0 5px 6px -6px #777;
+}
+#site-footer{
+    -webkit-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.5);
+}
+.primary-menu li.current-menu-item > a{
+    text-decoration: none !important;
+}
+li.lang-item a:hover, li.lang-item:hover > a{
+    border: 0 !important;
+    text-decoration: none !important;
+}
+.primary-menu li:hover > a{
+    text-decoration: none !important;
+    border-bottom:3px solid #cd2653;
+    margin-bottom: -3px !important;
+}
+.w-25{
+    width:312px !important;
+}
+.movie-box{
+    width:312px !important;
+    margin:2rem;
+    text-align: left;
+    display: inline-block;
+}
+.text-center{
+    text-align:center;
+}
+.box-container .featured-media{
+    margin-top:0 !important;
+}
+.ml-2{
+    margin-left:2rem !important;
+}
+.w-100  {
+    width:100%;
+}
+.w-50{
+    width:calc(50% - 1rem);
+}
+.movie-box h4{
+    margin-top:1rem;
+    margin-bottom: 0;
+}
+.box-container{
+    margin:2rem;
+    text-align: center;
+}
+
+.none-decor{
+    text-decoration: none;
+    color:#000;
+}
+.cover-header-inner-movie, .page-id-134 .post-inner{
+    padding: 0 !important;
+}
+.movie-box p{
+    margin-top: 0;
+    margin-bottom: 0;
+    max-height: 130px;
+    overflow-y: hidden;
+}
+.movie-box .section-inner{
+    width:100% !important;
+}
+.w-75{
+    width:calc(100% - 320px) !important;
+}
+
+.d-inline{
+    display:inline-block;
+    margin:0;
+}
+.p-5{
+    padding: 5rem !important;
+}
+.mx-2{
+    margin:0 2rem !important;
+}
+.float-left{
+    float: left;
+}
+.vertical-top{
+    vertical-align: top;
+}
+.cover-color-overlay {
+    color: #FFF !important;
+}
+.footer-top-visible .footer-nav-widgets-wrapper{
+    margin-top:0 !important;
+}
+.text-black{
+    color:#000 !important;
+}
+.text-left{
+    text-align: left !important;
+}
+.size-normal{
+    font-size: 2.1rem;
+    letter-spacing: 0.1rem;
+}
+.post-meta-wrapper.post-meta-single.post-meta-single-top,.movie.type-movie .post-inner.thin{
+    display:none;
+}
+.movie.type-movie .featured-media{
+    margin-top: 0 !important;
+}
+.movie.type-movie .entry-title,.movie.type-movie .entry-categories{
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+
+.movie.type-movie .entry-header{
+    padding-bottom: 0 !important;
+}
+form#filter{
+    text-align: center;
+    margin-top:0.5rem;
+
+}
+select.select-cat {
+    padding: 1.3rem 0.5rem;
+    border: 1px solid #d2d2d2;
+    font-size: 1.7rem;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+.f-1{
+    width:49.5%;
+    display:inline-block;
+}
+.swiper-slide {
+    height: 670px !important;
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    width:312px !important;
+    /* Center slide text vertically */
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    display: block;
+    vertical-align: top;
+}
+.swiper-pagination-progressbar-fill{
+    --swiper-theme-color:#cd2653;
+}
+.post-type-archive .archive-header {
+    padding-bottom: 0;
+}
+.post-type-archive .type-movie.movie{
+    width:33% !important;
+    display:inline-block;
+    padding: 0;
+}
+@media (max-width: 576px) {
+    .w-25{
+        width:100% !important;
+    }
+    .w-25 img{
+        margin:auto;
+    }
+    .w-75{
+        width:100% !important;
+    }
+}
+@media (max-width: 782px) {
+    .w-7 {
+        width: 100% !important;
+        display: inline-block !important;
+    }
+}
+@media (min-width: 782px) {
+    form#filter{
+        margin-top: 2.5rem;
+    }
+    .w-7{
+        width:calc(100%/7) !important;
+        display: inline-block !important;
+    }
+    input.w-7,select.w-7{
+        height: 50px;
+        vertical-align: top;
+    }
+    .entry-header{
+        padding: 5rem !important;
+    }
+    button{
+        font-size:1.6rem !important;
+    }
+}
